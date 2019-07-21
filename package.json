@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/evgenyrodionov/flexboxgrid2.git"
+    "url": "git://github.com/antenando/flexboxgrid2.git"
   },
   "keywords": [
     "browser",
@@ -21,7 +21,7 @@
   "author": "@evgenyrodionov",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/evgenyrodionov/flexboxgrid2/issues"
+    "url": "https://github.com/antenando/flexboxgrid2/issues"
   },
   "files": [
     "flexboxgrid2.css",
