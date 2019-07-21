@@ -2,6 +2,4 @@ node_modules
 .DS_Store
 yarn.lock
 dist
-flexboxgrid2.css
-flexboxgrid2.min.css
 !src/flexboxgrid2.css
