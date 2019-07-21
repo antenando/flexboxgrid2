@@ -3,3 +3,5 @@ node_modules
 yarn.lock
 dist
 !src/flexboxgrid2.css
+flexboxgrid2.css
+flexboxgrid2.min.css
