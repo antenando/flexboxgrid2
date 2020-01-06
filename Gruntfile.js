@@ -21,7 +21,7 @@ module.exports = function(grunt) {
       concat: {
         files: {
           "docs/style.css": [
-            "node_modules/normalize.css/normalize.css",
+            // "node_modules/normalize.css/normalize.css",
             "docs/src/style.css",
             "flexboxgrid2.css"
           ]

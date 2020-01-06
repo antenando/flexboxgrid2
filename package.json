@@ -1,6 +1,6 @@
 {
   "name": "@antenando/flexboxgrid2",
-  "version": "7.2.2",
+  "version": "7.2.3",
   "description": "Grid based off of CSS3 flexbox specification",
   "style": "flexboxgrid2.css",
   "main": "flexboxgrid2.css",
@@ -39,8 +39,5 @@
     "grunt-contrib-watch": "^0.5.3",
     "grunt-myth": "^1.0.1",
     "grunt-processhtml": "^0.2.9"
-  },
-  "dependencies": {
-    "normalize.css": "^7.0.0"
   }
 }
