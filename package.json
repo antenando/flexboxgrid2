@@ -1,6 +1,6 @@
 {
   "name": "@antenando/flexboxgrid2",
-  "version": "7.2.3",
+  "version": "7.2.4",
   "description": "Grid based off of CSS3 flexbox specification",
   "style": "flexboxgrid2.css",
   "main": "flexboxgrid2.css",

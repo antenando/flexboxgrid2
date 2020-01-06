@@ -9,11 +9,11 @@ Modern 12 column grid system based on flex property.
 Forked from [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) because original project seems abandoned ([kristoferjoseph/flexboxgrid#236](https://github.com/kristoferjoseph/flexboxgrid/pull/236), [kristoferjoseph/flexboxgrid#229](https://github.com/kristoferjoseph/flexboxgrid/pull/229), [kristoferjoseph/flexboxgrid#211](https://github.com/kristoferjoseph/flexboxgrid/pull/211), etc).
 
 ## Breakpoints
-- `xs`: 0..575px
-- `sm`: 576..767px
-- `md`: 768..991px
-- `lg`: 992..1199px
-- `xl`: 1200px+
+- `xs`: 0..639px
+- `sm`: 640..767px
+- `md`: 768..1023px
+- `lg`: 1024..1279px
+- `xl`: 1280px+
 - `.container` padding: 8px
 - `.container` width: $breakpoint - 16px
 - `.col-*` padding: 8px
